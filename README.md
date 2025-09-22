@@ -4,7 +4,7 @@
 
 rendezvous
 
-### Members:
+### Members
 Nada Beltagui and Deema Hazim 
 
 ### What and why?
