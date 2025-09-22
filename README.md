@@ -6,7 +6,6 @@ rendezvous
 
 ### Members:
 Nada Beltagui and Deema Hazim 
-@nadsb26, @deema-hazim
 
 ### What and why?
 
