@@ -4,6 +4,10 @@
 
 rendezvous
 
+### Members:
+Nada Beltagui and Deema Hazim 
+@nadsb26, @deema-hazim
+
 ### What and why?
 
 We propose building a social planning app that helps groups of friends easily decide what to do when they hang out. Right now, many groups rely on messy group chats with endless "we should do this!", scattered TikTok/Instagram saves, and long indecisive discussions. This often wastes time and results in people falling back on the same few, familiar options.
